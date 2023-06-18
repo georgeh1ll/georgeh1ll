@@ -1,4 +1,5 @@
 - 👋 Hi, I’m George Hill.
-- 👀 I’m interested in Physics, Astronomy, 3D Design,3D  Printing and Medical Scanning. 
+- A Physics with Theoretical Astrophysics graduate.
+- I write code here that is interesting to me and may be useful as starting points for other's projects. 
 
 
